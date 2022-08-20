@@ -1,0 +1,19 @@
+p {
+    background-color: #f84444;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: rgb(23, 54, 255);
+    font-size: 36px
+}
+
+.medium {
+    font-size: 24px
+}
+
+#diffy {
+    background-color: #44df68;
+    font-size: 24px;
+    font-weight: bold;
+}
